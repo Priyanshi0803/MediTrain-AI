@@ -41,6 +41,5 @@ MediTrain-AI is an innovative AI-driven solution designed to revolutionize medic
 # Technology Stack
 
 - **Backend**: Flask, LangChain, Groq
-- **APIs**: Groq, RandomUser.me
-- **Frontend**: html,css,js
-   
+- **APIs**: Groq
+- **Frontend**: HTML,CSS,JS
