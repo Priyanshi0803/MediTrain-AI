@@ -24,8 +24,8 @@ body, html {
     max-width: 600px;
     width: 100%;
     position: absolute;
-    Right: 52%; /* Adjust to move it slightly left */
-    top: 180%; /* Adjust to move it slightly down */
+    Right: 52%; 
+    top: 180%; 
 }
 
 .header {
