@@ -23,7 +23,7 @@ def main():
             try:
                 # Make the POST request to the API endpoint
                 # Replace 'API_ENDPOINT_URL' with the actual endpoint URL
-                response = requests.post("https://meditrain-ai-imyv.onrender.com", json=payload)
+                response = requests.post("https://meditrain-ai-9.onrender.com/response", json=payload)
 
                 if response.status_code == 200:
                     # Parse the JSON response
